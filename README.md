@@ -1,8 +1,4 @@
-# ContactTracingApp
-ContactTracingApp <br>
-crafted using Python-Flask framework, Project by County Hospital for contact tracing.
-
-<h3>Python Packages And How To Run It</h3>
+# How To Run It
 
 ```
 $ virtualenv venv
